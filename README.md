@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="assets/Vishnu_Vardhan_Resume.pdf">Resume</a>
+  |
+  <a href="https://www.linkedin.com/in/vishnu-vardhan-1a7591244">LinkedIn</a>
+  |
+  <a href="https://leetcode.com/u/atermoiement_/">LeetCode</a>
+  |
   <a href="https://github.com/atermoiement-1?tab=repositories">Projects</a>
   |
   <a href="https://github.com/atermoiement-1/Vishnuvardhan-s_portfolio">Portfolio</a>
@@ -92,6 +98,7 @@ Jupyter Notebook | VS Code | Linux | MySQL | SQLite
 ### Current Focus
 
 - Building a structured DSA Journey repository covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, and Dynamic Programming.
+- Practicing coding problems on [LeetCode](https://leetcode.com/u/atermoiement_/) to strengthen DSA, problem solving, and interview readiness.
 - Practicing consistent GitHub contributions through DSA solutions, project improvements, documentation updates, and bug fixes.
 - Developing one strong placement-focused AI project: AI Resume Analyzer, Placement Prediction System, or Interview Preparation Platform.
 
