@@ -5,7 +5,11 @@
 <h1 align="center">Hi, I'm VishnuVardhan Sathani</h1>
 
 <p align="center">
-  <b>Full-stack developer and data enthusiast building practical web apps, analytics workflows, and automation systems.</b>
+  <b>MCA (AI & ML) @ LPU | Aspiring Software Engineer & Data Analyst</b>
+  <br />
+  Building Full-Stack Applications, Data Analytics Solutions, and AI-Powered Systems
+  <br />
+  Python | SQL | Java | Data Analysis | Machine Learning | MERN Stack
 </p>
 
 <p align="center">
@@ -18,31 +22,33 @@
 
 ### About Me
 
-I enjoy turning ideas into working products: dashboards, role-based systems, data analysis pipelines, and intelligent automation tools. My projects show a mix of frontend craft, backend APIs, database design, Python analytics, and real-world problem solving.
+I am an MCA (Artificial Intelligence & Machine Learning) student at Lovely Professional University with a strong interest in Software Development, Data Analytics, and Machine Learning.
 
-I am especially interested in:
+My journey began with Data Science, where I developed skills in Python, SQL, Pandas, Data Visualization, and Machine Learning. Over time, I expanded into Full-Stack Development and started building end-to-end applications involving frontend development, backend APIs, databases, authentication systems, and analytics dashboards.
 
-- Full-stack web development with React, Node.js, Express, and MongoDB
-- Data analysis and business insight generation with Python and Pandas
-- Automation workflows that save time and make information easier to act on
-- Clean user experiences with practical dashboards, reports, and admin tools
+I enjoy solving real-world problems through technology and continuously improving my skills through projects, competitive programming, and hands-on development.
+
+Currently seeking Software Engineer, Data Analyst, and AI/ML opportunities.
 
 ---
 
-### Tech Stack
+### Skills
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
+#### Core Programming
+
+Python | Java | SQL | JavaScript | C++
+
+#### Data Analytics
+
+Pandas | NumPy | Matplotlib | Data Cleaning | Exploratory Data Analysis (EDA) | Excel | IBM Cognos Analytics
+
+#### Machine Learning
+
+Machine Learning Fundamentals | Model Building | Data Preprocessing | Feature Engineering
+
+#### Web Development
+
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | REST APIs | Authentication
 
 ---
 
