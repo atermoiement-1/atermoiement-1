@@ -2,7 +2,7 @@
   <img src="assets/profile.jpg" width="220" alt="VishnuVardhan Sathani" style="border-radius: 16px;" />
 </p>
 
-<h1 align="center">Hi, I'm VishnuVardhan Sathani</h1>
+<h1 align="center">Hi, I'm Vishnu Vardhan Sathani</h1>
 
 <p align="center">
   <b>MCA (AI & ML) @ LPU | Aspiring Software Engineer & Data Analyst</b>
@@ -16,6 +16,8 @@
   <a href="https://github.com/atermoiement-1?tab=repositories">Projects</a>
   |
   <a href="https://github.com/atermoiement-1/Vishnuvardhan-s_portfolio">Portfolio</a>
+  |
+  <a href="mailto:vishnuvardhan6840@gmail.com">Email</a>
 </p>
 
 ---
@@ -50,16 +52,48 @@ Machine Learning Fundamentals | Model Building | Data Preprocessing | Feature En
 
 HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | REST APIs | Authentication
 
+#### Tools
+
+Jupyter Notebook | VS Code | Linux | MySQL | SQLite
+
 ---
 
 ### Featured Projects
 
 | Project | What it Shows |
 | --- | --- |
-| [Avidus Role-Based Task App](https://github.com/atermoiement-1/avidus-role-based-task-app) | Full-stack MERN development with authentication, role-based access, admin dashboards, task monitoring, and activity logs. |
-| [Smart Attendance Monitoring System](https://github.com/atermoiement-1/smart-attendance-monitoring-system) | Python, Flask, OpenCV, SQLite, face-recognition attendance flow, exports, and absentee alerts. |
-| [AtliQ Hotel Data Analysis](https://github.com/atermoiement-1/Atliq-hotel-data-analysis) | Data cleaning, multi-table preparation, Pandas analysis, and business-focused insight generation. |
-| [Student Grade Calculator](https://github.com/atermoiement-1/student-grade-calculator) | Practical beginner-friendly application logic and clean user interaction. |
+| [Avidus Role-Based Task App](https://github.com/atermoiement-1/avidus-role-based-task-app) | Full-stack role-based task management app with Admin/User access, authentication, activity logs, analytics dashboard, Node.js, MongoDB, and React. |
+| [Face Recognition Attendance System](https://github.com/atermoiement-1/smart-attendance-monitoring-system) | Automated attendance tracking using Flask, OpenCV, and SQLite with student enrollment, attendance reports, and absentee alerts. |
+| [AtliQ Hotel Data Analysis](https://github.com/atermoiement-1/Atliq-hotel-data-analysis) | Hotel booking data analysis and ETL-style preparation using Python and Pandas, including data cleaning, EDA, and business insight generation. |
+| AI Resume Analyzer - Future Project | Planned AI-powered resume screening system to score resumes, identify missing skills, and suggest recruiter-focused improvements. |
+
+---
+
+### Achievements
+
+- 2nd Prize - Gender Equality Presentation Competition
+- Hackathon participant and award winner
+- IIT Mandi Minor in CS & Extended Technologies
+- Data Science Workshop - IIT Hyderabad
+- MCA (AI & ML) - Lovely Professional University
+
+---
+
+### Certifications
+
+- IIT Mandi Minor in Computer Science
+- IBM Learning Certifications
+- Python Programming
+- Data Science Foundations
+- Machine Learning Foundations
+
+---
+
+### Current Focus
+
+- Building a structured DSA Journey repository covering Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, and Dynamic Programming.
+- Practicing consistent GitHub contributions through DSA solutions, project improvements, documentation updates, and bug fixes.
+- Developing one strong placement-focused AI project: AI Resume Analyzer, Placement Prediction System, or Interview Preparation Platform.
 
 ---
 
