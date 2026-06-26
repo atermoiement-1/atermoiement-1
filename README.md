@@ -12,13 +12,47 @@
   Python | SQL | Java | Data Analysis | Machine Learning | MERN Stack
 </p>
 
+<h3 align="center">🎯 Current Focus</h3>
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineering-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Engineer-7B2CBF?style=flat-square&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-06D6A0?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-06D6A0?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6B35?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+<h3 align="center">🛠 Technologies</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
 </p>
 
@@ -112,15 +146,28 @@ Currently seeking Software Engineer, Data Analyst, and AI/ML opportunities.
 
 ---
 
-## GitHub Snapshot
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atermoiement-1&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atermoiement-1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atermoiement-1&show_icons=true&theme=github_dark&hide_border=true" alt="Vishnu Vardhan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atermoiement-1&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=atermoiement-1&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
 <p align="center">
   <b>Open to internships, entry-level developer roles, Data Analyst roles, and AI/ML opportunities.</b>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=atermoiement-1&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
