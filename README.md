@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/💻_Software_Engineering-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Data_Analytics-06D6A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-FF6B35?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <a href="assets/Vishnu_Vardhan_Resume.pdf">Resume</a>
   |
   <a href="https://www.linkedin.com/in/vishnu-vardhan-1a7591244">LinkedIn</a>
