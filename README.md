@@ -13,9 +13,13 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/💻_Software_Engineering-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📊_Data_Analytics-06D6A0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI_&_Machine_Learning-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-06D6A0?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 <p align="center">
