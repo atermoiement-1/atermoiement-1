@@ -34,11 +34,6 @@
   <a href="mailto:vishnuvardhan6840@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0f172a?style=for-the-badge" alt="Software Engineering" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-0f172a?style=for-the-badge" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-0f172a?style=for-the-badge" alt="AI ML" />
-</p>
 
 ---
 
